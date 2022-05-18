@@ -1,1 +1,1 @@
-SELECT id FROM northwind.products;
+UPDATE northwind.order_details SET discount = 15;
